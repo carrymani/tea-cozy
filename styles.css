@@ -11,9 +11,7 @@ body {
     width: 100%;
     height: 100%;
     padding: 0;
-    margin: 0;
-
-    
+    margin: 0;  
 }
 
 /* Navigation */
@@ -40,6 +38,7 @@ header {
 .nav-menu a {
     margin-right: 10px;
     text-decoration: underline;
+    color: seashell;
 }
 
 .nav-menu a:hover {
